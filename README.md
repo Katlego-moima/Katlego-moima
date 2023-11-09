@@ -18,6 +18,6 @@ Welcome to my GitHub profile. I'm a passionate mobile game lover, an avid reader
 
 ## Get in Touch
 
-📫 Want to chat about React.js, game development, or share meditation tips? Feel free to reach out to me via [email](moimakatlego2@gmail.com) or connect with me on [LinkedIn](yourLinkedInProfileLink).
+📫 Want to chat about React.js, game development, or share meditation tips? Feel free to reach out to me via [email](moimakatlego2@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/katlego-moima-077a68184/).
 
 Let's embark on a coding journey together and explore the endless possibilities of the digital world! 🚀
